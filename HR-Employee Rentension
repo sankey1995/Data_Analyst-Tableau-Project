@@ -1,9 +1,0 @@
-"Visualizing Employee Retention KPIs with Tableau: A Dashboard for HR Analytics"
-
-In this project, we will be analyzing employee retention data in order to identify trends and key performance indicators (KPIs) that can be used to improve retention rates in the organization. Using Tableau, we will build a dashboard that provides a clear and concise view of the most important retention KPIs.
-
-The project will begin with data collection and cleaning, where we will gather relevant HR analytics data related to employee retention, including employee demographics, tenure, job roles, performance evaluations, and exit reasons. Once the data is cleaned and structured, we will use Tableau to visualize the data in a meaningful way, including creating charts and graphs to show trends over time and identifying areas of concern or opportunities for improvement.
-
-The final product will be a dashboard that showcases the most important retention KPIs in a user-friendly way. The dashboard will include a high-level overview of retention rates, as well as more detailed metrics related to retention by department, job role, and employee demographics. It will also include filters and drill-down capabilities, allowing users to explore the data in greater detail and identify the factors that are driving retention rates up or down.
-
-Overall, the goal of this project is to provide HR and organizational leaders with a powerful tool for understanding and improving employee retention rates. With Tableau's powerful data visualization capabilities, we can provide a clear and concise view of the most important KPIs related to employee retention, allowing organizations to make data-driven decisions and take action to improve retention rates and build a strong, engaged workforce.
